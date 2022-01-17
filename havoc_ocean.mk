@@ -29,7 +29,7 @@ PRODUCT_VENDOR_PROPERTY_BLACKLIST := \
     ro.telephony.default_network \
     ro.vendor.telephony.default_network
 
-PRODUCT_BRAND := motorola
+PRODUCT_BRAND := Motorola
 PRODUCT_DEVICE := ocean
 PRODUCT_MANUFACTURER := motorola
 PRODUCT_NAME := havoc_ocean

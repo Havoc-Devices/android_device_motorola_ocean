@@ -266,6 +266,7 @@ vendor/firmware/cpp_firmware_v1_6_0.fw
 vendor/firmware/cpp_firmware_v1_8_0.fw
 
 # Camera - MotCamera2
+-product/priv-app/MotCamera2/MotCamera2.apk|6734a30a655807eca8b33ffc045adb70f429d772
 -product/priv-app/MotorolaSettingsProvider/MotorolaSettingsProvider.apk;PRESIGNED
 
 # Offmode charging
